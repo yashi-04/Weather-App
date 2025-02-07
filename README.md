@@ -24,5 +24,8 @@ project-example/\
 
 The choice of structure and tools also depends on the specific requirements and technologies you're using, so feel free to adapt and extend this structure to meet your project's needs
 
-## To Clone this repository:
-> git clone https://github.com/yashi-04/Weather-App.git
+### Clone the Repository
+If you have the code in a repository, clone it:
+```bash
+git clone https://github.com/yashi-04/Weather-App.git
+cd your-repo
